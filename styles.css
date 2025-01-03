@@ -1,0 +1,138 @@
+.heading{
+    background-color: chocolate;
+    color: white;
+  text-transform: capitalize;
+}
+.shop{
+    color: white;
+    margin-left: 45%;
+
+  border-style: dashed;
+  border-radius: 50%;
+  text-align: center;
+  border-width: 60px;
+  margin-left: 20px;
+  font-size: 40px;
+
+}
+
+#body{
+background-color: chocolate;
+text-align: center;
+}
+.sneak{
+    font-size: 50px;
+}
+.body2{
+  background-color: chocolate;
+  color: white;
+  word-spacing: 0%;
+ 
+
+}
+.get2{
+    font-size: 35px;
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 500px;
+}
+
+.nine2{
+    margin-top: 0px;
+}
+del{
+  font-size: 40px;
+}
+em{
+ font-size: 30px;
+margin-left: 2px;
+}
+.about{
+  font-size: 60px;
+}
+.arrow{
+font-size: 60px;
+
+}
+strong{
+font-size: 20px;
+}
+.backhome{
+  font-size:30px ;
+}
+.third{
+  font-size:40px ;
+
+  
+}
+.body3{
+  color: white;
+  background-color: chocolate;
+  text-align: center;
+  font-size: 40px;
+}
+.free{
+  font-size: 30px;
+}
+.skin6{
+  text-align: center;
+  border-style: solid;
+  border-width: 120px;
+  border-color: burlywood;
+}
+#select1{
+  text-align: center;
+
+
+}
+.select{
+  text-align: center;
+}
+a:hover{
+ 
+  text-shadow: 1px 1px 1px blue;
+  padding: 20px 40px;
+  border:30px solid black ;
+  background-color: burlywood;
+  cursor: pointer;
+  border-radius: 30%;
+  display: inline-block;
+}
+#firstimg{
+padding: 50px 100px;
+
+}
+.hello{
+  background-color: blue;
+  color: white;
+  width: 200px;
+  height: 300px;
+  margin: auto;
+}
+ul li{
+  list-style-type: lower-roman;
+box-sizing: content-box;
+  background-color: black;
+  opacity:9 ;
+}
+.backgroundimage{
+height: 500px;
+font-size: 1.5rem;
+color: white;
+background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+url('glow.jpeg') center/ cover scroll no-repeat ;
+
+}
+.banner{
+border-width: 25px;
+border-style: solid;
+border-color: red;
+padding: 20px 20px;
+
+}
+img{
+  float: left;
+  clear: left;
+}
+
+
